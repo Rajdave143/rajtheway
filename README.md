@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajdave123
+- 👋 Hi, I’m @rajtheway
 - 👀 I’m interested in python,django
 - 🌱 I’m currently learning django
 - 📫 How to reach me rajdave9009.rd@gmail.com
